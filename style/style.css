@@ -294,15 +294,9 @@ section.contact .contact_form input[type="text"], section.contact .contact_form 
 section.contact .contact_form .submit {
     width: 100px;
     text-align: center;
-    
-    /* display: inline-block; */
-    /* display: flex; */
-    /* flex-flow: column; */
-
-    /* flex-direction: row-reverse;  */
-    /* justify-content: flex-end;  */
-    /* align-items: center;  */
-    
+    padding-right: 200px;
+    margin: auto;
+       
 }
 
 
